@@ -1,0 +1,8 @@
+/build*/
+/output/
+compile_commands.json
+*.o
+*.a
+*.so
+*.exe
+.DS_Store
